@@ -19,6 +19,7 @@ return options are:
 [field    Mcorr   Ms    drift   gradient    offset    Mraw    time] = VSM
 
 drift is in emu/s
+
 gradient is in emu/Oe
 
 The corrected Magnetisation (Mcor) is generated from raw Magnetisation (Mraw) by:
