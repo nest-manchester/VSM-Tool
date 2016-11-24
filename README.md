@@ -23,5 +23,5 @@ gradient is in emu/Oe
 
 The corrected Magnetisation (Mcor) is generated from raw Magnetisation (Mraw) by:
 
-Mcor=Mraw-gradient*field-drift*time-offset
+Mcor=Mraw-gradient\*field-drift\*time-offset
 
