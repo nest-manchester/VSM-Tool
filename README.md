@@ -16,8 +16,7 @@ INSTRUCTIONS
 
 return options are:
 
-[field    Mcorr   Ms    drift   gradient    offset    Mraw    time]=VSM
- 1        2       3     4       5           6         7       8 
+[field    Mcorr   Ms    drift   gradient    offset    Mraw    time] = VSM
 
 drift is in emu/s
 gradient is in emu/Oe
